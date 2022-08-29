@@ -1,4 +1,10 @@
 body {
-background-color: rgb(44, 124, 194);
-background-image: linear-gradient(to right, aliceblue, rgb(210, 210, 48)) ;
+
+background-image: linear-gradient(to right, rgb(75, 69, 60), rgb(210, 94, 48)) ;
+}
+.card-body {
+background-color: rgb(176, 198, 184);
+}
+.card {
+    background-image: linear-gradient(to right, rgb(75, 69, 60), rgb(210, 94, 48)) ;
 }
